@@ -1,1 +1,0 @@
-Design do site Herta na ferramenta Figma
